@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudié en la UTP (Universidad Tecnológica del Perú).<br>Carrear ingeniería de sistemas e informatica.<br>Busco especializar en el desarrollo web. <br>La disciplina es la mejor forma de aprender y crecer
+Bachiller en la UTP (Universidad Tecnológica del Perú).<br>Carrera ingeniería de sistemas e informatica.<br>Busco especializar en el desarrollo web. <br>La disciplina es la mejor forma de aprender y crecer
 
 
 ## 🌐 Socials:
